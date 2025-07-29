@@ -1,25 +1,28 @@
 ---
-name: 🐛 Bug report
-about: Report any PPL issues to help improve our language
-title: '[BUG]'
+name: 🐛 Bug Report
+about: Report a bug or unexpected behavior in PPL
+title: '[BUG] Brief description of the issue'
 labels: 'bug, untriaged, PPL'
 assignees: ''
 ---
 
-**What is the bug?**
-A clear and concise description of the bug.
+## Bug Description
+**Describe the bug**
+A clear and concise description of what the bug is and what went wrong.
 
-**What is the PPL Command**
-The PPL query/command used, the output result, rr the error message
+## Environment Information
+**OpenSearch Version:**
+<!-- e.g., OS 2.19 -->
 
-**What is the expected result?**
-The expected output results of this PPL command or query
+**Additional Environment Details:**
+<!-- Any other relevant environment information -->
 
-**What is your OS version**
-For example OS 2.19
+## Reproduction Steps
+**Steps to reproduce the behavior:**
+1.
+2.
+3.
 
-**Do you have any screenshots?**
-If applicable, add screenshots to help explain your problem.
-
-**Do you have any additional context?**
-Add any other context about the problem.
+**PPL Command/Query:**
+```ppl
+<!-- Paste your PPL command or query here -->
