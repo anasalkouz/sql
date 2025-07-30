@@ -1,5 +1,5 @@
 ---
-name: 🐛 Bug Report
+name: 🐛 PPL Bug Report
 about: Report a bug or unexpected behavior in PPL
 title: '[BUG] Brief description of the issue'
 labels: 'bug, untriaged, PPL'
@@ -12,10 +12,10 @@ A clear and concise description of what the bug is and what went wrong.
 
 ## Environment Information
 **OpenSearch Version:**
-<!-- e.g., OS 2.19 -->
+e.g. OpenSearch 2.19
 
 **Additional Environment Details:**
-<!-- Any other relevant environment information -->
+Any other relevant environment information
 
 ## Reproduction Steps
 **Steps to reproduce the behavior:**
@@ -25,4 +25,4 @@ A clear and concise description of what the bug is and what went wrong.
 
 **PPL Command/Query:**
 ```ppl
-<!-- Paste your PPL command or query here -->
+Paste your PPL command or query here
